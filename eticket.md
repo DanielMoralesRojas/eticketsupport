@@ -47,31 +47,31 @@
 
 ## Características del personal:
 
--Ver solo las entradas en los departamentos a los que tiene acceso
+-Ver solo las entradas en los departamentos a los que tiene acceso.
 
--No se pueden borrar tickets
+-No se pueden borrar tickets.
 
 # Últimas características
 
 ## Las nuevas características incluyen:
 
--Fácil de actualizar / instalar
+-Fácil de actualizar / instalar.
 
--Fácil de estilo usando temas
+-Fácil de estilo usando temas.
 
--Feeds RSS para clientes
+-Feeds RSS para clientes.
 
 -Captcha en formularios web para reducir el spam.
 
 -Configurable Spam Assassin mod para automail.pl
 
--Mejor soporte de idioma con archivo de idioma cambiable
+-Mejor soporte de idioma con archivo de idioma cambiable.
 
--Respuestas predefinidas / enlatadas
+-Respuestas predefinidas / enlatadas.
 
 -Mejor funcionalidad de búsqueda.
 
 -Posibilidad de asignar representantes a las entradas.
 
--Construido en flash basado en reproductor de mp3
+-Construido en flash basado en reproductor de mp3.
 
