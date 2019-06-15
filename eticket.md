@@ -4,9 +4,12 @@ Proporciona un software que puede modificar y mejorar según lo considere conven
 
 ## DEMOSTRACION
 
-No he podido poner a prueba el funcionamiento del software ya que, la pagina no carga las distintas pestañas que tiene, y tampoco tiene ninguna guia de instalación,
+No he podido poner a prueba el funcionamiento del software ya que, la pagina no carga las distintas pestañas que tiene, y tampoco tiene ninguna guia de instalación.
+
+Ademas de que no tiene soporte desde 2008 y el ultimo post se hizo en 
 
 ![imagen](images/i1.jpg)
+![imagen](images/i2.jpg)
 
 
 # Caracteristicas
