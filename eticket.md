@@ -9,6 +9,9 @@ No he podido poner a prueba el funcionamiento del software ya que, la pagina no 
 Ademas de que no tiene soporte desde 2008 y el ultimo post se hizo en 2016. Es una herramienta bastante obsoleta y creo que ya dejaron de darle soporte totalmente. Ya que no puedo ni descargarmelo.
 
 ![imagen](/images/1.jpg)
+
+En esta segunda captura se puede ver como la pagina principal no carga. He probado en varios ordenadores y con varios navegadores y me aparece el mismo mensaje.
+
 ![imagen](/images/2.jpg)
 
 
