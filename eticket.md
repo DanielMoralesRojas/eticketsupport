@@ -4,12 +4,12 @@ Proporciona un software que puede modificar y mejorar según lo considere conven
 
 ## DEMOSTRACION
 
-No he podido poner a prueba el funcionamiento del software ya que, la pagina no carga las distintas pestañas que tiene, y tampoco tiene ninguna guia de instalación.
+No he podido poner a prueba el funcionamiento del software ya que, la pagina no carga las distintas pestañas que tiene, y tampoco tiene ninguna guia de instalación y de los pocos tutoriales que habian estaban desactulizados y no funcionaban.
 
-Ademas de que no tiene soporte desde 2008 y el ultimo post se hizo en 
+Ademas de que no tiene soporte desde 2008 y el ultimo post se hizo en 2016. Es una herramienta bastante obsoleta y creo que ya dejaron de darle soporte totalmente. Ya que no puedo ni descargarmelo.
 
-![imagen](images/i1.jpg)
-![imagen](images/i2.jpg)
+![imagen](images/i01.jpg)
+![imagen](images/i02.jpg)
 
 
 # Caracteristicas
