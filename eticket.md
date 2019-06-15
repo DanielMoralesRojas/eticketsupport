@@ -1,6 +1,13 @@
 # ETICKET
 
-Proporciona un software que puede modificar y mejorar según lo considere conveniente, pero no puede redistribuir todo el paquete modificado a menos que tenga un permiso por escrito. Solo puede distribuir las instrucciones sobre cómo modificar el código fuente. Bajo ninguna circunstancia se le permitiría alterar o eliminar los derechos de autor, al igual que no se le permitiría hacerlo si se publicara bajo la GPL. Pero vea nuestro software como Open Source, hemos delineado el campo de juego de lo que puede y no puede hacer un poco más claramente.
+Proporciona un software que puede modificar y mejorar según lo considere conveniente, pero no puede redistribuir todo el paquete modificado a menos que tenga un permiso por escrito. Solo puede distribuir las instrucciones sobre cómo modificar el código fuente.
+
+## DEMOSTRACION
+
+No he podido poner a prueba el funcionamiento del software ya que, la pagina no carga las distintas pestañas que tiene, y tampoco tiene ninguna guia de instalación,
+
+![imagen](images/1.jpg)
+
 
 # Caracteristicas
 
@@ -77,4 +84,7 @@ Proporciona un software que puede modificar y mejorar según lo considere conven
 -Posibilidad de asignar representantes a las entradas.
 
 -Construido en flash basado en reproductor de mp3.
+
+
+
 
