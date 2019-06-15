@@ -8,8 +8,8 @@ No he podido poner a prueba el funcionamiento del software ya que, la pagina no 
 
 Ademas de que no tiene soporte desde 2008 y el ultimo post se hizo en 2016. Es una herramienta bastante obsoleta y creo que ya dejaron de darle soporte totalmente. Ya que no puedo ni descargarmelo.
 
-![imagen](1.jpg)
-![imagen](2.jpg)
+![imagen](/images/1.jpg)
+![imagen](/images/2.jpg)
 
 
 # Caracteristicas
